@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatbotApp</string>
+    <string name="message_hint">Please type your message...</string>
+</resources>
